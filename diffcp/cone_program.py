@@ -841,3 +841,4 @@ def solve_and_derivative_internal(A, b, c, cone_dict, solve_method=None,
     result["D"] = derivative
     result["DT"] = adjoint_derivative
     return result
+
